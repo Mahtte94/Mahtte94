@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">A future Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, JavaScript, PHP, C#, MongoDB**
+- 🌱 I’m currently learning ** C#, React, Wordpress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahtte94?tab=repositories](https://github.com/Mahtte94?tab=repositories)
 
